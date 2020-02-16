@@ -1,4 +1,4 @@
-# algoSolutions
+#### algoSolutions / arrayRotation
 
 # Amazon question
 
